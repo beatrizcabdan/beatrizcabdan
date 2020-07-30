@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Bea – a PhD student at Universitat Pompeu Fabra (UPF) in Barcelona, Spain. I work in the “Graphics and Interactive Technologies” research group. I hold a bachelor’s degree in Computer Engineering and a master’s degree in Interactive Intelligent Systems, and I have practical knowledge of making delicious fruit smoothies.
+My research interests include:
+<ul>
+  <li>Crowd simulation</li>
+  <li>Pedestrian motion models</li>
+  <li>Machine Learning</li>
+  <li>Optimisation techniques</li>
+  <li>Agent-based modelling</li>
+</ul>
