@@ -24,3 +24,5 @@ My research interests include:
   <li>Optimisation techniques</li>
   <li>Agent-based modelling</li>
 </ul>
+
+Don't forget to check out my portfolio: https://beacabdan.github.io/ !
