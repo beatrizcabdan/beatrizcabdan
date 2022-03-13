@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Bea – a PhD student at Universitat Pompeu Fabra (UPF) in Barcelona, Spain. I work in the “Graphics and Interactive Technologies” research group. I hold a bachelor’s degree in Computer Engineering and a master’s degree in Interactive Intelligent Systems, and I have practical knowledge of making delicious fruit smoothies.
-My research interests include:
+🔭 I am Bea - and I'm looking for a postdoc on Interactive Intelligent Systems. My research interests include:
 <ul>
-  <li>Crowd simulation</li>
-  <li>Pedestrian motion models</li>
+  <li>Emergent behaviour</li>
+  <li>Computational creativity</li>
   <li>Machine Learning</li>
-  <li>Optimisation techniques</li>
-  <li>Agent-based modelling</li>
+  <li>Multi-agent systems</li>
+  <li>Crowd simulation (agent-based)</li>
 </ul>
 
-Don't forget to check out my portfolio: https://beacabdan.github.io/ !
+😄 She/Her
+⚡ Feel free to check out my CV/portfolio (WIP): https://beacabdan.github.io/!
