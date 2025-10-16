@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 🔭 I am Bea - and I'm looking for a postdoc on Interactive Intelligent Systems. My research interests include:
 <ul>
-  <li>Emergent behaviour</li>
-  <li>Computational creativity</li>
+  <li>Autonomous Driving</li>
+  <li>Space Filling Curves</li>
   <li>Machine Learning</li>
   <li>Multi-agent systems</li>
   <li>Crowd simulation (agent-based)</li>
 </ul>
 
 😄 She/Her
-⚡ Feel free to check out my CV/portfolio (WIP): https://beacabdan.github.io/!
+⚡ Feel free to check out my CV: bea.cabrerodaniel.com
