@@ -1,28 +1,29 @@
-### Hi there 👋
+# Hi, I’m Bea (she/her) 👋
 
-<!--
-**beacabdan/beacabdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Postdoctoral Researcher** at the Department of Computer Science and Engineering, Chalmers University of Technology and University of Gothenburg (Sweden)  
+**Research areas:** Artificial Intelligence, Digital Twins, Autonomous Vehicles, Human-AI Collaboration, Trustworthy AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I’m working on
 
-🔭 I am Bea - and I'm looking for a postdoc on Interactive Intelligent Systems. My research interests include:
-<ul>
-  <li>Autonomous Driving</li>
-  <li>Space Filling Curves</li>
-  <li>Machine Learning</li>
-  <li>Multi-agent systems</li>
-  <li>Crowd simulation (agent-based)</li>
-</ul>
+- Digital Twins and AI for Autonomous Driving  
+- Trustworthy and Generative AI in Software Engineering  
+- Human-centered evaluation of AI systems  
+- New ways to integrate AI responsibly into higher education
+- I love teaching and programming, and I solve most problems with (occasionally questionable) AIs in Python
 
-😄 She/Her
-⚡ Feel free to check out my CV: bea.cabrerodaniel.com
+### 👯 Collaboration and community
+
+- Talks and workshops on AI, STEM, and gender bias in tech  
+- Volunteer with Red Cross, La Marató de TV3, Oracle4Girls, Girls In Tech, etc.
+- Member of **AMAM**, the Association of Musicians and Artists of Mollet
+
+<sub>_Open to collaborations, student supervision, and talks on AI, RE, AV, and Digital Twins._</sub>
+
+## 📫 How to reach me
+
+🌐 [bea.cabrerodaniel.com](https://bea.cabrerodaniel.com)  
+✉️ [beatriz.cabrero.daniel@gmail.com](mailto:beatriz.cabrero.daniel@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/beatrizcabrerodaniel/)  
+👩‍🔬 [Google Scholar](https://scholar.google.com/citations)  
